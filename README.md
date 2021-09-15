@@ -1,5 +1,5 @@
 # maxinance
-Maxinance is a bash script that control web maintenance status via .htaccess. It can be used to put all website in directadmin into maintenance mode when doing a backup to prevent data integrity error.
+Maxinance is a bash script that control web maintenance status via .htaccess. It can be used to put all website in directadmin into maintenance mode when doing a backup to prevent data integrity error. This maintenance operation is controlled by server.
 
 
 Can put maintenance mode for specific webuser or website with single command:
